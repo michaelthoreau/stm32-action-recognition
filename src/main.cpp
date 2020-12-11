@@ -12,7 +12,7 @@
 
 
 /* USBSerial library for serial terminal */
-USBSerial serial;
+USBSerial serial(0x1f00,0x2012,0x0001,false);
 
 /* LIS3DSH Library for accelerometer  - using SPI*/
 LIS3DSH acc(PA_7, SPI_MISO, SPI_SCK, PE_3);
