@@ -19,13 +19,14 @@ The Stm32f4Discovery board has an issue where it will not execute code when plug
 
 ![Utility Interface](imgs/utility.png)
 
----
 
 **5)** Click "Device Connect, then "Yes>>>". Your board's firmware will be updated.
 
 ![Firmware Update](imgs/update.png)
 
 **6)** Finally - Unplug and re-plug your board in to your computer. Code you upload should now run with the board connected to an external power supply.
+
+---
 
 ### Mac OS instructions
 A solution exists to update the firmware via a computer running Mac OS, however users have reported problems with java when trying this. Feel free to try it out via this [link](https://www.st.com/en/development-tools/stsw-link007.html "St-link Firmware Update").
