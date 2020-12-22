@@ -20,7 +20,7 @@ The Stm32f4Discovery board has an issue where it will not execute code when plug
 ![Utility Interface](imgs/utility.png)
 
 
-**5)** Click "Device Connect, then "Yes>>>". Your board's firmware will be updated.
+**5)** Click "Device Connect", then "Yes>>>". Your board's firmware will be updated.
 
 ![Firmware Update](imgs/update.png)
 
