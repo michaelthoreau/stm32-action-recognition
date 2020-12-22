@@ -1,5 +1,5 @@
 ## STM32 Action Recognition
-### for ECE-GY  6483 Real Time Embedded Systems at NYU
+### ECE-GY  6483 Real Time Embedded Systems at NYU
 
 
 This repository contains sample code and some tutorials for the course listed above.
